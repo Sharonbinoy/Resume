@@ -3463,7 +3463,3 @@ body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb {
 .menu:hover {
     color: red;
 }
-
-.bg {
-    background-image: url(img\bg.jpg);
-}
