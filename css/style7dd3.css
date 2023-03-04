@@ -387,7 +387,7 @@ a:focus {
     height: 2px;
     display: block;
     margin-top: 4px;
-    background-color: #ddd
+    background-color: #fcfcfc
 }
 
 .nav-opened .resumo_fn_navigation {
@@ -1932,7 +1932,7 @@ a:focus {
 }
 
 #contact {
-    padding: 150px 0 200px
+    padding: 150px 0 120px
 }
 
 #contact .resumo_fn_main_title {
@@ -2174,7 +2174,7 @@ a:focus {
     height: 26px;
     display: block;
     right: 154px;
-    top: 50%;
+    top: 99%;
     margin-top: -13px
 }
 
@@ -3454,4 +3454,16 @@ body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb {
 
 .call:hover {
     color: red;
+}
+
+.menu {
+    color: white;
+}
+
+.menu:hover {
+    color: red;
+}
+
+.bg {
+    background-image: url(img\bg.jpg);
 }
